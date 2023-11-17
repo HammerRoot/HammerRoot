@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋 Hi, Here is Indigo
 
-<!--
-**HammerRoot/HammerRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 I’m a Front-End Developer
+- 🌱 I’m currently learning Psychology/Tarot
+- 🤔 I’m looking for help with how to be an Independent Developer
+- 📫 How to reach me: hammer.root.931@gmail.com
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><a href="https://react.dev"><img src="https://api.iconify.design/logos:react.svg" /></a></code>
+<code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
+<code><a href="https://threejs.org/"><img src="https://api.iconify.design/logos:webpack.svg" /></a></code>
+<code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a></code>
+
+---
+
+### ❤️‍🔥 POI
+
+Shaw and Root are perfect for each other.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/root_Amy.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/root_portrait.jpg">
+  <img alt="Root" src="./images/root_portrait.jpg">
+</picture>
+
+---
